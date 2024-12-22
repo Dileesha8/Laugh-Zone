@@ -1,0 +1,27 @@
+/* src/components/Joke.css */
+body {
+    background-color: rgb(47, 97, 80);
+    font-family: Arial, sans-serif;
+}
+
+.joke {
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: beige;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+}
+
+p {
+    text-align: center;
+    color: lightyellow;
+    font-size: 1.5rem;
+}
